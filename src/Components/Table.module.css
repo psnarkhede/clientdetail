@@ -1,0 +1,30 @@
+.main{
+    display:flex;
+    width:400px;
+    margin: auto;
+    font-size: 18px;
+    height:40px;
+    font-weight: 700;
+    border-bottom: 1px solid blue;
+}
+
+.main2{
+    margin: auto;
+}
+
+.photo{
+    width:150px;
+    height:150px;
+}
+
+.delete{
+    border:1px solid red;
+    font-size: 18px;
+    padding: 5px 10px 5px 10px;
+    background-color: red;
+    color:white;
+    font-weight: 700;
+    border-radius: 8px;
+    margin-top: 25px;
+    cursor: pointer;
+}

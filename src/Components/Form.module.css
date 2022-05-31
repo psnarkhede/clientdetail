@@ -1,0 +1,77 @@
+.heading{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.box{
+    border-bottom:3px solid black;
+    height:60px;
+    width:500px;
+    margin: auto;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.father{
+    display:flex;
+}
+
+.left, .right{
+    border:1px solid red;
+    width:50%;
+    height:600px;
+}
+
+.input{
+    border:2px solid black;
+    font-size:18px;
+    height:30px;
+    margin-left: 5px;
+    padding-left: 10px;
+    width:400px;
+    border-radius: 10px;
+}
+
+.select{
+    border:1px solid black;
+    font-size:18px;
+    height:30px;
+    margin-left: 5px;
+    padding-left: 5px;
+    border-radius: 10px;
+}
+
+.married{
+    width:15px;
+    height:15px;
+    margin-left: 5px;
+}
+
+.married1{
+    width:15px;
+    height:15px;
+    margin-left: 30px;
+}
+
+.marriedlabel{
+    font-size: 18px;
+    margin-left: 5px;
+}
+
+.photo{
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+.submitbtn{
+    border:1px solid crimson;
+    font-size: 18px;
+    padding: 5px 10px 5px 10px;
+    background-color: crimson;
+    color:gold;
+    font-weight: 700;
+    border-radius: 8px;
+    margin-top: 25px;
+    cursor: pointer;
+}
